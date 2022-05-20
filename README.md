@@ -17,3 +17,9 @@ Main File: `pynome.py`
 Init: `chmod a+x *`
 
 How to **run** : `run.sh`
+
+<hr>
+
+A *Metronome* no **money** can buy.
+
+<hr>
