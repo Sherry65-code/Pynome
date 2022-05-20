@@ -21,7 +21,7 @@ How to **run** : `python3 ./pynome.py`
 
 # See how does it look
 
-<img src="
+<img src="https://github.com/Sherry65-code/Pynome/blob/main/pynome.png?raw=true" height=200>
 
 
 <hr>
