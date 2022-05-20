@@ -16,7 +16,13 @@ Main File: `pynome.py`
 
 Init: `chmod a+x *`
 
-How to **run** : `run.sh`
+How to **run** : `python3 ./pynome.py`
+
+
+# See how does it look
+
+<img src="
+
 
 <hr>
 
