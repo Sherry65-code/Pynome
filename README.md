@@ -16,6 +16,8 @@ Main File: `pynome.py`
 
 Init: `chmod a+x *`
 
+Website - <a href="https://sherry65-code.github.io/pynome.com">Pynome</a>
+
 How to **run** : `python3 ./pynome.py`
 
 
